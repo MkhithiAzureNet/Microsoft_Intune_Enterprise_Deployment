@@ -8,8 +8,8 @@
 |----------|-------|
 | Project | Microsoft Intune Enterprise Deployment |
 | Methodology | Sprint-Based Development |
-| Current Sprint | Sprint 1 |
-| Current Phase | Project Foundation |
+| Current Sprint | Sprint 2 |
+| Current Phase | Business Requirements & Current State Assessment |
 | Status | In Progress |
 
 ---
@@ -49,8 +49,8 @@ The completed project will serve as:
 
 | Sprint | Status | Objective |
 |---------|--------|-----------|
-| Sprint 1 | 🔄 In Progress | Project Foundation |
-| Sprint 2 | ⏳ Planned | Business Requirements & Current State Assessment |
+| Sprint 1 | ✅ Completed | Project Foundation |
+| Sprint 2 | 🔄 In Progress | Business Requirements & Current State Assessment |
 | Sprint 3 | ⏳ Planned | Enterprise Architecture |
 | Sprint 4 | ⏳ Planned | Intune Proof of Concept |
 | Sprint 5 | ⏳ Planned | Device Enrollment |
