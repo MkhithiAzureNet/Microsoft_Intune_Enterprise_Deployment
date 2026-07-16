@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../warehousepro_azure_landing_zone"
+		},
+		{
+			"name": "Microsoft_Intune_Enterprise_Deployment",
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "Microsoft_Intune_Enterprise_Deployment"
+	}
+}
