@@ -36,14 +36,14 @@ Establish a complete understanding of the current environment and business requi
 | Document | Status |
 |----------|--------|
 | README.md | Complete |
-| 01_Business_Requirements.md | Pending |
-| 02_Current_Environment_Assessment.md | Pending |
-| 03_Identity_Assessment.md | Pending |
-| 04_Licensing_Assessment.md | Pending |
-| 05_Device_Inventory.md | Pending |
-| 06_Administrative_Roles.md | Pending |
-| 07_Gap_Analysis.md | Pending |
-| Sprint_02_Review.md | Pending |
+| 01_Business_Requirements.md | Complete |
+| 02_Current_Environment_Assessment.md | Complete |
+| 03_Identity_Assessment.md | Complete |
+| 04_Licensing_Assessment.md | Complete |
+| 05_Device_Inventory.md | Complete |
+| 06_Administrative_Roles.md | Complete |
+| 07_Gap_Analysis.md | Complete |
+| Sprint_02_Review.md | Complete |
 
 ---
 
@@ -79,8 +79,8 @@ Sprint 2 will be considered complete when:
 
 # Sprint Status
 
-Current Status: In Progress
+Current Status: Completed
 
-Progress: 0%
+Progress: 100%
 
-Current Activity: Business Requirements
+Current Activity: Business Requirements and Assessment Complete
