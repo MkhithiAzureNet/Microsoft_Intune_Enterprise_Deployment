@@ -9,7 +9,7 @@ Enterprise implementation of Microsoft Intune following Microsoft best practices
 | Property | Value |
 |----------|-------|
 | **Status** | 🟢 Active Development |
-| **Current Sprint** | Sprint 3 – Enterprise Architecture |
+| **Current Sprint** | Sprint 4 – Proof of Concept |
 | **Methodology** | Sprint-Based Development |
 
 ---
@@ -121,8 +121,8 @@ PROJECT_ROADMAP.md
 |---------|--------|-------------|
 | Sprint 1 | ✅ Completed | Project Foundation |
 | Sprint 2 | ✅ Completed | Business Requirements & Assessment |
-| Sprint 3 | 🔄 In Progress | Enterprise Architecture |
-| Sprint 4 | ⏳ Planned | Proof of Concept |
+| Sprint 3 | ✅ Completed | Enterprise Architecture |
+| Sprint 4 | 🔄 In Progress | Proof of Concept |
 | Sprint 5 | ⏳ Planned | Device Enrollment |
 | Sprint 6 | ⏳ Planned | Configuration Profiles |
 | Sprint 7 | ⏳ Planned | Compliance Policies |
