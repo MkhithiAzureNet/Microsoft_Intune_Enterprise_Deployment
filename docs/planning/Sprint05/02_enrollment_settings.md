@@ -108,6 +108,12 @@ The Windows Enrollment page was reviewed to verify that the tenant provides all 
 
 ![Windows Enrollment](../../../images/screenshots/windows_enrollment.png)
 
+- Windows Autopilot and Enrollment Status Page
+
+The Windows Autopilot and Enrollment Status Page configuration options were confirmed to be available for future implementation activities.
+
+![Windows Autopilot](../../../images/screenshots/windows_autopilot.png)
+
 ## Notes
 
 The Windows enrollment configuration is in its default state and is suitable for beginning the Proof of Concept.
