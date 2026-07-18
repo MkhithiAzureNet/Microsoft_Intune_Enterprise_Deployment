@@ -36,12 +36,12 @@ Establish a validated Proof of Concept environment that serves as the foundation
 | Document | Status |
 |----------|--------|
 | README.md | Complete |
-| 01_Proof_of_Concept.md | Pending |
-| 02_Test_Environment.md | Pending |
-| 03_Entra_Device_Groups.md | Pending |
-| 04_Intune_Preparation.md | Pending |
-| 05_Validation_Checklist.md | Pending |
-| Sprint_04_Review.md | Pending |
+| 01_Proof_of_Concept.md | Complete |
+| 02_Test_Environment.md | Complete |
+| 03_Entra_Device_Groups.md | Complete |
+| 04_Intune_Preparation.md | Complete |
+| 05_Validation_Checklist.md | Complete |
+| Sprint_04_Review.md | Complete |
 
 ---
 
@@ -79,10 +79,10 @@ Sprint 4 will be considered complete when:
 
 # Sprint Status
 
-Current Status: In Progress
+Current Status: Completed
 
-Progress: 0%
+Progress: 100%
 
-Current Activity: Proof of Concept Planning
+Current Activity: Sprint Review
 
 ---
